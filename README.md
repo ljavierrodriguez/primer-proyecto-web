@@ -15,3 +15,8 @@ Preparar archivos
 Guardar archivos en el repositorio (local)
 
     $ git commit -m "mensaje"
+
+
+Enviar cambios del proyecto al repositorio (remoto)
+
+    $ git push origin master/main
